@@ -1,5 +1,2 @@
-# Kosco Gaming Server
-Gaming Servers
-Minecraft:
-CounterStrike:
-Rust:
+# CounterStrike Server
+KoscoGO Causal 24/7
